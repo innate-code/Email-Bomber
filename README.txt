@@ -4,7 +4,7 @@
 
 Обновим пакеты и приступим к установке:
 
- pkg install php -y
+pkg install php -y
 
 pkg install git -y
 
